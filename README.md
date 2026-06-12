@@ -1,4 +1,4 @@
-# LotteryApp
+# AnimalQuizBot
 
 ## Описание
 
